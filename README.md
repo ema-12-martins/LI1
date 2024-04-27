@@ -1,5 +1,13 @@
 # Laboratórios de Informática I
 
+## Grupo 25
+
+- **A97455** Henrique Nuno Marinho Malheiro ;
+- **A97678** Ema Maria Monteiro Martins ;
+
+## Nota
+19/20
+
 ## Repositório
 
 Se tiver chave SSH configurada no GitLab pode fazer clone com o seguinte link:
@@ -76,8 +84,3 @@ $ cabal haddock --haddock-all
 ```bash
 $ haddock -h -o doc/html src/*.hs
 ```
-
-## Grupo 25
-
-- **A97455** Henrique Nuno Marinho Malheiro ;
-- **A97678** Ema Maria Monteiro Martins ;
